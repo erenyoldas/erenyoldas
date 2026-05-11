@@ -13,11 +13,8 @@ Ankara merkezli, Full-Stack geliştirme odaklı bir yazılımcıyım. Karmaşık
 * **CCNAv7: Introduction to Networks** - Cisco Networking Academy
 * **IT Essentials** - Cisco Networking Academy & Ankara Üniversitesi
 
-### 🚀 Öne Çıkan Çalışmalar
-* **Kurumsal Projeler:** Arveon Bilişim bünyesinde .NET ve React kullanarak geliştirilen profesyonel uygulamalar.
-* **Examly:** Öğrenci sınav hazırlık süreçlerini yöneten tam kapsamlı platform.
-* **Mobil & Web:** Ionic ile mobil uygulama deneyimi ve PHP/JS tabanlı dinamik web platformları (Okul Sözlüğü, Ödeme Sistemleri).
-* **Otomasyon:** Steam fiyat takibi gibi Python tabanlı verimlilik araçları.
+### 🚀 Nelerle Uğraşıyorum?
+* **Backend Odaklı Geliştirme:** Karmaşık iş mantıklarını yöneten, ölçeklenebilir API'ler tasarlıyorum.
 
 ### 📊 GitHub İstatistiklerim
 ![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenyoldas&show_icons=true&theme=radical)
