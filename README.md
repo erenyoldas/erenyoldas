@@ -1,16 +1,23 @@
-## Hi there 👋
+# Selam! Ben Eren 👋
 
-<!--
-**erenyoldas/erenyoldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirme dünyasında modern web teknolojileri ve veritabanı yönetimi üzerine odaklanmış bir geliştiriciyim. Projelerimde performansı ve sürdürülebilirliği ön planda tutarak uçtan uca çözümler üretiyorum.
 
-Here are some ideas to get you started:
+### 🛠 Teknik Yetenekler
+* **Diller:** C#, PHP, Python
+* **Web & Frameworks:** .NET WebAPI, Node.js, React
+* **Veritabanı & Sorgulama:** SQL Server (SSMS), PostgreSQL, MySQL, SQL
+* **Araçlar:** Docker, Git, Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Sertifikalar
+* **CCNAv7: Introduction to Networks** - Cisco Networking Academy 
+* **IT Essentials** - Cisco Networking Academy & Ankara Üniversitesi 
+
+### 🚀 Nelerle Uğraşıyorum?
+* **Backend Odaklı Geliştirme:** Karmaşık iş mantıklarını yöneten, ölçeklenebilir API'ler tasarlıyorum.
+* 
+### 📊 GitHub İstatistiklerim
+![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenyoldas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenyoldas&layout=compact&theme=radical)
+
+### 📫 Bağlantı Kuralım
+* **LinkedIn:** [Eren Yoldaş](https://www.linkedin.com/in/eren-yolda%C5%9F-9b6388322)
